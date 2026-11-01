@@ -242,3 +242,4 @@ This project is part of the **100 PyTorch Projects in 10 Days** challenge.
 - **GitHub**: [@GideonMwiti](https://github.com/GideonMwiti)
 - **License**: MIT
 - **Day 3 Progress**: Project 23 of 100
+
